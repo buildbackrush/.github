@@ -13,7 +13,7 @@
     <li>Learn how to build with Backrush through the <a href="https://www.backrush.io/docs">Backrush Docs</a> 📚 </li>
     <li>Find Backrush's products through <a href="https://backrush.io">Backrush Products</a> 📝</li>
     <li>View our livestreams and video content at the <a href="https://x.com/buildbackrush/">Backrush YouTube channel</a> 📺</li>
-    <li>Discover our community-made projects at the <a href="https://github.com/backrush/awesome-backrush">Awesome Backrush repo</a> and the <a href="https://github.com/buildbackrush/backrush-website">Built With Backrush website</a> 💻</li>
+    <li>Discover our community-made projects at the <a href="https://github.com/buildbackrush/backrush-website">Built With Backrush website</a> 💻</li>
 </ul>   
 
 <a href="https://github.com/backrush/backrush"><img height=auto src="icon.png" alt="Visit the Backrush repo"></a> <h2>Connect With Us 🫂</h2>
@@ -23,6 +23,7 @@
     <li>Follow us on <a href="https://x.com/buildbackrush/">X</a> 🐤</li>
     <li>Apply to Backrush through the <a href="https://backrush.io">Backrush Careers page (We're HIRING! )</a> 🧑‍💻</li>
 </ul>
+
 
 
 
