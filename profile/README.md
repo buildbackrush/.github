@@ -8,7 +8,7 @@
 
     
 </p> 
-<h2>Backrush, the developers' choice: An open-source, cloud platform tailored for developers who like to get stuff done. Use built-in backend infrastructure and web hosting, all from a single place. Built with the open source community and optimized for developer experience in the coding languages you love.</h2>
+<h4>Backrush, the developers' choice: An open-source, cloud platform tailored for developers who like to get stuff done. Use built-in backend infrastructure and web hosting, all from a single place. Built with the open source community and optimized for developer experience in the coding languages you love.</h4>
 <h2>Learn About Backrush 🧑‍🎓</h2> <ul>
     <li>Learn how to build with Backrush through the <a href="https://backrush.io/docs">Backrush Docs</a> 📚 </li>
     <li>Find tutorials and blogs on Backrush's services at the <a href="https://backrush.io/blog">Backrush blog</a> 📝</li>
@@ -23,6 +23,7 @@
     <li>Follow us on <a href="https://x.com/backrush">X</a> 🐤</li>
     <li>Apply to Backrush through the <a href="https://backrush.io/company/careers">Backrush Careers page (We're HIRING! )</a> 🧑‍💻</li>
 </ul>
+
 
 
 
