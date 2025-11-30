@@ -12,6 +12,7 @@
 <h2>Learn About Backrush 🧑‍🎓</h2> <ul>
     <li>Learn how to build with Backrush through the <a href="https://www.backrush.io/docs">Backrush Docs</a> 📚 </li>
     <li>Find Backrush's products through <a href="https://backrush.io">Backrush Products</a> 📝</li>
+    <li>Have discuss on <a href="https://www.backrush.io/blog">Backrush Blog</a> 📝</li>
     <li>View our livestreams and video content at the <a href="https://x.com/buildbackrush/">Backrush YouTube channel</a> 📺</li>
     <li>Discover our community-made projects at the <a href="https://github.com/buildbackrush/backrush-website">Built With Backrush website</a> 💻</li>
 </ul>   
@@ -23,6 +24,7 @@
     <li>Follow us on <a href="https://x.com/buildbackrush/">X</a> 🐤</li>
     <li>Apply to Backrush through the <a href="https://backrush.io">Backrush Careers page (We're HIRING! )</a> 🧑‍💻</li>
 </ul>
+
 
 
 
