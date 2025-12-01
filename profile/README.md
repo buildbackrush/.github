@@ -1,7 +1,7 @@
 
 
 <p align="center">
-    <a href="https://backrush.io" target="_blank"><img src="./readme_banner.webp" alt="Backrush Banner"></a>
+    <a href="https://backrush.io" target="_blank"><img src="./WhatsApp%20Image%202025-12-01%20at%203.55.50%20AM.jpeg" alt="Backrush Banner"></a>
       
 
       
@@ -21,7 +21,7 @@
 </ul>
 
 <a href="https://github.com/backrush/backrush">
-    <img height="auto" src="icon.png" alt="Visit the Backrush repo">
+    <img height="auto" src="./WhatsApp%20Image%202025-12-01%20at%204.11.13%20AM.jpeg" alt="Visit the Backrush repo">
 </a>
 
 <h2>Connect With Us 🫂</h2>
@@ -29,6 +29,7 @@
     <li>Star 🌟 the <a href="https://github.com/orgs/buildbackrush/repositories">Backrush repos</a> 🖥️</li>
     <li>Visit <a href="https://www.backrush.io/">Backrush.io</a> to learn more 🚀</li>
 </ul>
+
 
 
 
