@@ -27,9 +27,9 @@
 <h2>Connect With Us 🫂</h2>
 <ul>
     <li>Star 🌟 the <a href="https://github.com/orgs/buildbackrush/repositories">Backrush repos</a> 🖥️</li>
-    <li>Follow us on <a href="https://x.com/buildbackrush/">X</a> 🐤</li>
     <li>Visit <a href="https://www.backrush.io/">Backrush.io</a> to learn more 🚀</li>
 </ul>
+
 
 
 
